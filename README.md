@@ -4,12 +4,6 @@ Hi, I am
 # Dari-Developer
 A passionate full-stack and web scraping developer from México
 
-<div>
-<img src="https://avatars.githubusercontent.com/u/49276865?s=400&u=2c1b7ea7348dc54437b3fa12fb762e64d754edb5&v=4" width="100">
-<div>
-
-
-
 ## Skills
 
 <div>
@@ -19,11 +13,17 @@ A passionate full-stack and web scraping developer from México
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/html5.svg" width="50" alt="html5" title="html5">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/css3.svg" width="50" alt="css3" title="css3">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/javascript.svg" width="50" alt="javascript" title="javascript">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/sass.svg" width="50" alt="sass" title="sass">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/react.svg" width="50" alt="react" title="react">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/xampp.svg" width="50" alt="xampp" title="xampp">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/mysql.svg" width="50" alt="mysql" title="mysql">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/sqlite.svg" width="50" alt="sqlite" title="sqlite">
 <img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/postgresql.svg" width="50" alt="postgresql" title="postgresql">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/linux.svg" width="50" alt="linux" title="linux">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/gnubash.svg" width="50" alt="gnubash" title="gnubash">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/adobephotoshop.svg" width="50" alt="adobephotoshop" title="adobephotoshop">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/postman.svg" width="50" alt="postman" title="postman">
+
 </div>
 
 ## About me
@@ -34,12 +34,39 @@ A passionate full-stack and web scraping developer from México
 💬 Ask me about **Python, Django, Flask and Frontend**
 📫 How to reach me **darideveloper@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/francisco dari hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco dari hernandez" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/" target="blank">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/linkedin.svg" width="50" alt="linkedin" title="linkedin">
+</a>
+
+<a href="mailto:darideveloper@gmail.com" target="blank">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/gmail.svg" width="50" alt="gmail" title="gmail">
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5217295162472" target="blank">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/whatsapp.svg" width="50" alt="whatsapp" title="whatsapp">
+</a>
+
+<a href="https://t.me/DariDeveloper" target="blank">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/telegram.svg" width="50" alt="telegram" title="telegram">
+</a>
+
+<a href="https://www.fiverr.com/darideveloper" target="blank">
+<img src="https://raw.githubusercontent.com/DariHernandez/Dari-Developer/main/imgs/fiverr.svg" width="50" alt="fiverr" title="fiverr">
+</a>
+
+
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darihernandez&show_icons=true&locale=en&layout=compact" alt="darihernandez" /></p>
+</div>
 
+<div width="100%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darihernandez&show_icons=true&locale=en&layout=compact" alt="darihernandez" /></p>
+</div>
+
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darihernandez&show_icons=true&locale=en" alt="darihernandez" /></p>
 </div>
