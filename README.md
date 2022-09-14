@@ -14,7 +14,7 @@ A passionate full-stack and web scraping developer from México
 <img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" alt="html5" title="html5">
 <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" alt="css3" title="css3">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" alt="javascript" title="javascript">
-<img src="imgs/aos.svg" width="50" alt="aos" title="aos">
+<img src="imgs/aos.svg" width="80" alt="aos" title="aos">
 <img src="https://github.com/sweetalert2/sweetalert2/raw/main/assets/swal2-logo.png" width="100" alt="SweetAlert2" title="SweetAlert2">
 <img src="https://cdn.svgporn.com/logos/sass.svg" width="50" alt="sass" title="sass">
 <img src="https://cdn.svgporn.com/logos/react.svg" width="50" alt="react" title="react">
