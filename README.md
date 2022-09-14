@@ -7,22 +7,23 @@ A passionate full-stack and web scraping developer from México
 ## Skills
 
 <div>
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/git.svg" width="50" alt="git" title="git">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/python.svg" width="50" alt="python" title="python">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/django.svg" width="50" alt="django" title="django">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/html5.svg" width="50" alt="html5" title="html5">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/css3.svg" width="50" alt="css3" title="css3">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/javascript.svg" width="50" alt="javascript" title="javascript">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/sass.svg" width="50" alt="sass" title="sass">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/react.svg" width="50" alt="react" title="react">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/xampp.svg" width="50" alt="xampp" title="xampp">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/mysql.svg" width="50" alt="mysql" title="mysql">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/sqlite.svg" width="50" alt="sqlite" title="sqlite">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/postgresql.svg" width="50" alt="postgresql" title="postgresql">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/linux.svg" width="50" alt="linux" title="linux">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/gnubash.svg" width="50" alt="gnubash" title="gnubash">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/adobephotoshop.svg" width="50" alt="adobephotoshop" title="adobephotoshop">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/postman.svg" width="50" alt="postman" title="postman">
+<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="50" alt="git" title="git">
+<img src="https://cdn.svgporn.com/logos/python.svg" width="50" alt="python" title="python">
+<img src="https://cdn.svgporn.com/logos/django-icon.svg" width="50" alt="django" title="django">
+<img src="https://cdn.svgporn.com/logos/flask.svg" width="50" alt="flask" title="flask">
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" alt="html5" title="html5">
+<img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" alt="css3" title="css3">
+<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" alt="javascript" title="javascript">
+<img src="https://cdn.svgporn.com/logos/sass.svg" width="50" alt="sass" title="sass">
+<img src="https://cdn.svgporn.com/logos/react.svg" width="50" alt="react" title="react">
+<img src="https://cdn.svgporn.com/logos/xampp.svg" width="50" alt="xampp" title="xampp">
+<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" alt="mysql" title="mysql">
+<img src="https://cdn.svgporn.com/logos/sqlite.svg" width="50" alt="sqlite" title="sqlite">
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" alt="postgresql" title="postgresql">
+<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" alt="linux" title="linux">
+<img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="50" alt="gnubash" title="gnubash">
+<img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="50" alt="adobephotoshop" title="adobephotoshop">
+<img src="https://cdn.svgporn.com/logos/postman-icon.svg" width="50" alt="postman" title="postman">
 
 </div>
 
@@ -39,23 +40,23 @@ A passionate full-stack and web scraping developer from México
 <div align="center">
 
 <a href="https://www.linkedin.com/in/francisco-dari-hernandez-6456b6181/" target="blank">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/linkedin.svg" width="50" alt="linkedin" title="linkedin">
+<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30" alt="linkedin" title="linkedin">
 </a>
 
 <a href="mailto:darideveloper@gmail.com" target="blank">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/gmail.svg" width="50" alt="gmail" title="gmail">
+<img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="30" alt="gmail" title="gmail">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5217295162472" target="blank">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/whatsapp.svg" width="50" alt="whatsapp" title="whatsapp">
+<img src="https://cdn.svgporn.com/logos/whatsapp-icon.svg" width="30" alt="whatsapp" title="whatsapp">
 </a>
 
 <a href="https://t.me/DariDeveloper" target="blank">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/telegram.svg" width="50" alt="telegram" title="telegram">
+<img src="https://cdn.svgporn.com/logos/telegram.svg" width="30" alt="telegram" title="telegram">
 </a>
 
 <a href="https://www.fiverr.com/darideveloper" target="blank">
-<img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/fiverr.svg" width="50" alt="fiverr" title="fiverr">
+<img src="https://user-images.githubusercontent.com/45782139/77510964-c99c5300-6e91-11ea-9a6d-f1f33b56c846.png" width="30" alt="fiverr" title="fiverr">
 </a>
 
 </div>
