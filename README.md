@@ -29,7 +29,7 @@ A passionate full-stack and web scraping developer from México
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" alt="javascript" title="javascript">
 </a>
 <a href="https://michalsnik.github.io/aos/">
-  <img src="imgs/aos.svg" width="80" alt="aos" title="aos">
+  <img src="https://raw.githubusercontent.com/DariHernandez/DariHernandez/main/imgs/aos.svg" width="80" alt="aos" title="aos">
 </a>
 <a href="https://sweetalert2.github.io/">
   <img src="https://github.com/sweetalert2/sweetalert2/raw/main/assets/swal2-logo.png" width="100" alt="SweetAlert2" title="SweetAlert2">
