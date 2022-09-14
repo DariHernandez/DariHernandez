@@ -7,26 +7,63 @@ A passionate full-stack and web scraping developer from México
 ## Skills
 
 <div>
-<img src="https://cdn.svgporn.com/logos/git-icon.svg" width="50" alt="git" title="git">
-<img src="https://cdn.svgporn.com/logos/python.svg" width="50" alt="python" title="python">
-<img src="https://cdn.svgporn.com/logos/django-icon.svg" width="50" alt="django" title="django">
-<img src="https://cdn.svgporn.com/logos/flask.svg" width="50" alt="flask" title="flask">
-<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" alt="html5" title="html5">
-<img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" alt="css3" title="css3">
-<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" alt="javascript" title="javascript">
-<img src="imgs/aos.svg" width="80" alt="aos" title="aos">
-<img src="https://github.com/sweetalert2/sweetalert2/raw/main/assets/swal2-logo.png" width="100" alt="SweetAlert2" title="SweetAlert2">
-<img src="https://cdn.svgporn.com/logos/sass.svg" width="50" alt="sass" title="sass">
-<img src="https://cdn.svgporn.com/logos/react.svg" width="50" alt="react" title="react">
-<img src="https://cdn.svgporn.com/logos/xampp.svg" width="50" alt="xampp" title="xampp">
-<img src="https://cdn.svgporn.com/logos/mysql.svg" width=80" alt="mysql" title="mysql">
-<img src="https://cdn.svgporn.com/logos/sqlite.svg" width="100" alt="sqlite" title="sqlite">
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" alt="postgresql" title="postgresql">
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" alt="linux" title="linux">
-<img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="50" alt="gnubash" title="gnubash">
-<img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="50" alt="adobephotoshop" title="adobephotoshop">
-<img src="https://cdn.svgporn.com/logos/postman-icon.svg" width="50" alt="postman" title="postman">
-
+<a href="https://git-scm.com/">
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="50" alt="git" title="git">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="50" alt="python" title="python">
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="50" alt="django" title="django">
+</a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/">
+  <img src="https://cdn.svgporn.com/logos/flask.svg" width="50" alt="flask" title="flask">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="50" alt="html5" title="html5">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50" alt="css3" title="css3">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/javascript">
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50" alt="javascript" title="javascript">
+</a>
+<a href="https://michalsnik.github.io/aos/">
+  <img src="imgs/aos.svg" width="80" alt="aos" title="aos">
+</a>
+<a href="https://sweetalert2.github.io/">
+  <img src="https://github.com/sweetalert2/sweetalert2/raw/main/assets/swal2-logo.png" width="100" alt="SweetAlert2" title="SweetAlert2">
+</a>
+<a href="https://sass-lang.com/">
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="50" alt="sass" title="sass">
+</a>
+<a href="https://es.reactjs.org/">
+  <img src="https://cdn.svgporn.com/logos/react.svg" width="50" alt="react" title="react">
+</a>
+<a href="https://www.apachefriends.org/es/index.html">
+  <img src="https://cdn.svgporn.com/logos/xampp.svg" width="50" alt="xampp" title="xampp">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width=80" alt="mysql" title="mysql">
+</a>
+<a href="https://sqlite.org/index.html">
+  <img src="https://cdn.svgporn.com/logos/sqlite.svg" width="100" alt="sqlite" title="sqlite">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" alt="postgresql" title="postgresql">
+</a>
+<a href="https://en.wikipedia.org/wiki/Linux">
+  <img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" alt="linux" title="linux">
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="50" alt="gnubash" title="gnubash">
+</a>
+<a href="https://www.adobe.com/mx/products/photoshop.html">
+  <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="50" alt="adobe photoshop" title="adobe photoshop">
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://cdn.svgporn.com/logos/postman-icon.svg" width="50" alt="postman" title="postman">
+</a>
 </div>
 
 ## About me
