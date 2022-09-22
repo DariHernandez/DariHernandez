@@ -64,6 +64,9 @@ A passionate full-stack and web scraping developer from México
 <a href="https://www.postman.com/">
   <img src="https://cdn.svgporn.com/logos/postman-icon.svg" width="50" alt="postman" title="postman">
 </a>
+<a href="https://vitejs.dev/">
+  <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="50" alt="vitejs" title="vitejs">
+</a>
 </div>
 
 ## About me
