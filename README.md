@@ -68,7 +68,7 @@ A passionate full-stack and web scraping developer from México
   <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="50" alt="vitejs" title="vitejs">
 </a>
 <a href="https://getbootstrap.com/">
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="50" alt="bootstrap" title="bootstrap">
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="60" alt="bootstrap" title="bootstrap">
 </a>
 <a href="https://purgecss.com/">
   <img src="https://i.imgur.com/UEiUiJ0.png" width="50" alt="purgecss" title="purgecss">
