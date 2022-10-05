@@ -73,6 +73,9 @@ A passionate full-stack and web scraping developer from México
 <a href="https://purgecss.com/">
   <img src="https://i.imgur.com/UEiUiJ0.png" width="50" alt="purgecss" title="purgecss">
 </a>
+<a href="https://supabase.com/">
+  <img src="https://cdn.svgporn.com/logos/supabase-icon.svg" width="50" alt="supabase" title="supabase">
+</a>
 </div>
 
 ## About me
