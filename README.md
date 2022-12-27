@@ -76,6 +76,9 @@ A passionate full-stack and web scraping developer from México
 <a href="https://supabase.com/">
   <img src="https://cdn.svgporn.com/logos/supabase-icon.svg" width="50" alt="supabase" title="supabase">
 </a>
+<a href="https://www.selenium.dev/">
+  <img src="https://cdn.svgporn.com/logos/selenium.svg" width="50" alt="selenium" title="selenium">
+</a>
 </div>
 
 ## About me
