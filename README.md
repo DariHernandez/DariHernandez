@@ -114,8 +114,3 @@ A passionate full-stack and web scraping developer from México
 </a>
 
 </div>
-
-## Stats
-
-![sample](https://github-readme-stats.vercel.app/api/top-langs?username=darihernandez&show_icons=true&locale=en&layout=compact)
-![sample](https://github-readme-stats.vercel.app/api?username=darihernandez&show_icons=true&locale=en)
